@@ -1189,7 +1189,7 @@ ul.social-links li{
   border: none;
 }
 ul.social-links li a, .social a{
-  background: url('../img/theme/social-icons.png') left bottom;
+  background: url('../imgs/social-icons.png') left bottom;
   width: 24px;
   height: 24px;
   display: block;

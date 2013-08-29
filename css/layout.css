@@ -30,7 +30,7 @@ a:hover, a:focus { color: #ad5803; }
 .alternate-bg1 .heading h4,
 .alternate-bg1 .heading h5,
 .alternate-bg1 .heading h6{
-  background:url('../img/theme/husk.png') #f2f2f2;
+  background:url('../imgs/husk.png') #f2f2f2;
 }
 
 .alternate-bg2,
@@ -41,7 +41,7 @@ a:hover, a:focus { color: #ad5803; }
 .alternate-bg2 .heading h4,
 .alternate-bg2 .heading h5,
 .alternate-bg2 .heading h6{
-  background:url('../img/theme/groovepaper.png') #fff;
+  background:url('../imgs/groovepaper.png') #fff;
 }
 
 .headerContent{

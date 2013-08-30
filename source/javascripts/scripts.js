@@ -1,19 +1,19 @@
 jQuery(document).ready(function($){
-    $(".super").supersized({
-        slide_interval: 5500,
-        transition: 0,
-        transition_speed: 700,
-        slides: [
-          {
-            image: "http://themes.webcreations907.com/ninezeroseven/option-one/wp-content/uploads/2013/03/taxis.jpg",
-            title:"<h2>Bollywood America</h2><br/><p>2014Bay Area</p>"
-          },
-          {
-            image:"http://themes.webcreations907.com/ninezeroseven/option-one/wp-content/uploads/2013/02/idea3.jpg",
-            title:"<h2>Bollywood America</h2><br/><p>2014Bay Area</p>"
-          }
-        ]
-    });
+  $(".super").supersized({
+      slide_interval: 5500,
+      transition: 0,
+      transition_speed: 700,
+      slides: [
+        {
+          image: "http://themes.webcreations907.com/ninezeroseven/option-one/wp-content/uploads/2013/03/taxis.jpg",
+          title:"<h2>Bollywood America</h2><br/><p>2014Bay Area</p>"
+        },
+        {
+          image:"http://themes.webcreations907.com/ninezeroseven/option-one/wp-content/uploads/2013/02/idea3.jpg",
+          title:"<h2>Bollywood America</h2><br/><p>2014Bay Area</p>"
+        }
+      ]
+  });
 });
 
 

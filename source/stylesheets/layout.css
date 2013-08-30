@@ -30,7 +30,7 @@ a:hover, a:focus { color: #ad5803; }
 .alternate-bg1 .heading h4,
 .alternate-bg1 .heading h5,
 .alternate-bg1 .heading h6{
-  background:url('../imgs/husk.png') #f2f2f2;
+  background:url('/images/husk.png') #f2f2f2;
 }
 
 .alternate-bg2,
@@ -41,7 +41,7 @@ a:hover, a:focus { color: #ad5803; }
 .alternate-bg2 .heading h4,
 .alternate-bg2 .heading h5,
 .alternate-bg2 .heading h6{
-  background:url('../imgs/groovepaper.png') #fff;
+  background:url('/images/groovepaper.png') #fff;
 }
 
 .headerContent{
@@ -58,7 +58,7 @@ a:hover, a:focus { color: #ad5803; }
 }
 
 .topBar h1.hide-text{
-  background:url('../img/theme/logo2.png') no-repeat;
+  background:url('logo2.png') no-repeat;
   height:31px; /*YOUR LOGO WIDTH*/
   width:114px; /*YOUR LOGO HEIGHT*/
 }
@@ -1189,7 +1189,7 @@ ul.social-links li{
   border: none;
 }
 ul.social-links li a, .social a{
-  background: url('../imgs/social-icons.png') left bottom;
+  background: url('/images/social-icons.png') left bottom;
   width: 24px;
   height: 24px;
   display: block;

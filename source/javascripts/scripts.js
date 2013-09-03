@@ -6,11 +6,11 @@ jQuery(document).ready(function($){
     slides: [
       {
         image: "/images/header/header1.png",
-        title:"<h2>Bollywood America</h2><br/><p>2014Bay Area</p>"
+        title: "<h2>Bollywood America</h2><br/><p>2014 Bay Area</p>"
       },
       {
-        image:"http://themes.webcreations907.com/ninezeroseven/option-one/wp-content/uploads/2013/02/idea3.jpg",
-        title:"<h2>Bollywood America</h2><br/><p>2014Bay Area</p>"
+        image: "/images/header/header2.png",
+        title: "<h2>Bollywood America</h2><br/><p>2014 Bay Area</p>"
       }
     ]
   };

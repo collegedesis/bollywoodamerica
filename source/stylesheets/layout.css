@@ -457,8 +457,12 @@ div.entice p{
   text-align: center;
 }
 
-.info img{
-  margin-bottom:14px; /*CHANGED*/
+.container .info img {
+  display: block;
+  border-radius: 50%;
+  max-width: 150px;
+  margin: 0 auto 20px;
+  box-shadow: 0 0 3px #ccc;
 }
 
 .info h5{

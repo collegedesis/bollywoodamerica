@@ -1,0 +1,55 @@
+- bid:
+  name: Bollywood Dance Canada
+  location: Toronto, Ontario, Canada
+  website:
+  image:
+- bid:
+  name: Jhalak
+  location: Austin, Texas
+  website:
+  image:
+- bid:
+  name: The Manhattan Project 5.0
+  location: New York, New York
+  website:
+  image:
+- bid:
+  name: A-Town Showdown
+  location: Atlanta, Georgia
+  website:
+  image: images/bids/atown_showdown.jpg
+- bid:
+  name: South Asian Showdown
+  location: Boston, Massachusetts
+  website:
+  image: images/bids/sas.jpg
+- bid:
+  name: Bollywood Berkeley
+  location: Berkeley, California
+  website:
+  image:
+- bid:
+  name: Jhoomti Shaam
+  location: Los Angeles, California
+  website:
+  image:
+- bid:
+  name: Midwest Dhamaka
+  location: Cincinnati, Ohio
+  website:
+  image:
+- bid:
+  name: A2 Dhoom
+  location: Ann Arbor, Michigan
+  website:
+  image: images/bids/a_dhoom.png
+- bid:
+  name: Infusion
+  location: State College, Pennsylvania
+  website:
+  image:
+- bid:
+  name: Tufaan
+  location: Chicago, Illinois
+  website:
+  image: images/bids/tufaan.jpg

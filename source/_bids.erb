@@ -1,0 +1,8 @@
+<section class="gallery page-sections-12 alternate-bg1" id="bids">
+  <div class="container">
+    <div class="titleBar"><span>Let the games begin</span><h2>2014 Bids</h2></div>
+    <% data.bids.each do |bid| %>
+      <%= partial(:bid, locals: { bid: bid } ) %>
+    <% end %>
+  </div>
+</section>

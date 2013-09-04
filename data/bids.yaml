@@ -7,7 +7,7 @@
   name: Jhalak
   location: Austin, Texas
   website:
-  image:
+  image: images/bids/jhalak.png
 - bid:
   name: The Manhattan Project 5.0
   location: New York, New York
@@ -17,7 +17,7 @@
   name: A-Town Showdown
   location: Atlanta, Georgia
   website:
-  image: images/bids/atown_showdown.jpg
+  image: images/bids/atown_showdown.png
 - bid:
   name: South Asian Showdown
   location: Boston, Massachusetts
@@ -27,7 +27,7 @@
   name: Bollywood Berkeley
   location: Berkeley, California
   website:
-  image:
+  image: images/bids/bollywood_berkeley.png
 - bid:
   name: Jhoomti Shaam
   location: Los Angeles, California
@@ -47,7 +47,7 @@
   name: Infusion
   location: State College, Pennsylvania
   website:
-  image:
+  image: images/bods/infusion.png
 - bid:
   name: Tufaan
   location: Chicago, Illinois

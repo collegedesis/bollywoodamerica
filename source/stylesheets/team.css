@@ -2,14 +2,13 @@
   text-align: center;
   position: relative;
   height: 150px;
-  margin-bottom: 10px;
   width: 300px;
-  margin: 0 auto 10px;
+  margin: 0 auto 20px;
   text-align: center;
   cursor: pointer;
 }
 
-.container .info > *, .container .info:hover > * {
+.container .info:hover > * {
   -webkit-transition: opacity 0.5s ease-in-out;
   -moz-transition: opacity 0.5s ease-in-out;
   -o-transition: opacity 0.5s ease-in-out;
@@ -22,7 +21,7 @@
   border-radius: 50%;
   width: 125px;
   height: 125px;
-  margin: 0 auto 20px;
+  margin: 0 auto 5px;
   box-shadow: 0 0 3px #ccc;
 }
 
@@ -48,6 +47,7 @@
   height: 100%;
 }
 
-.container .info:hover img {
+.container .info:hover img,
+.container .info:hover > h5 {
   display: none;
 }

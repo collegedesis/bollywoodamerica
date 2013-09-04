@@ -460,7 +460,8 @@ div.entice p{
 .container .info img {
   display: block;
   border-radius: 50%;
-  max-width: 150px;
+  width: 125px;
+  height: 125px;
   margin: 0 auto 20px;
   box-shadow: 0 0 3px #ccc;
 }

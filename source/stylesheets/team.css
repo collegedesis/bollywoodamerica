@@ -1,0 +1,53 @@
+.info {
+  text-align: center;
+  position: relative;
+  height: 150px;
+  margin-bottom: 10px;
+  width: 300px;
+  margin: 0 auto 10px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.container .info > *, .container .info:hover > * {
+  -webkit-transition: opacity 0.5s ease-in-out;
+  -moz-transition: opacity 0.5s ease-in-out;
+  -o-transition: opacity 0.5s ease-in-out;
+  -ms-transition: opacity 0.5s ease-in-out;
+  transition: opacity 0.5s ease-in-out;
+}
+
+
+.container .info img {
+  border-radius: 50%;
+  width: 125px;
+  height: 125px;
+  margin: 0 auto 20px;
+  box-shadow: 0 0 3px #ccc;
+}
+
+.container .info h5 { margin-bottom: 6px; }
+.container .info p { padding: 0 5px; margin: 0; }
+
+
+.container .info img {
+  display: block;
+}
+
+.container .info .details {
+  opacity: 0;
+}
+
+
+/* On hover, hide the image and show the text */
+.container .info:hover .details {
+  border: dotted 3px #333;
+  border-radius: 15px;
+  padding: 10px;
+  opacity: 1;
+  height: 100%;
+}
+
+.container .info:hover img {
+  display: none;
+}

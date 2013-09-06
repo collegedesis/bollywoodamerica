@@ -3,14 +3,15 @@ jQuery(document).ready(function($){
     slide_interval: 5500,
     transition: 0,
     transition_speed: 700,
+    vertical_center: 0,
     slides: [
       {
         image: "/images/header/header1.png",
-        title: "<h2>Bollywood America</h2><br/><p>2014 Bay Area</p>"
+        title: "<h2>Bollywood America</h2><br/><p>Coming April 19, 2014 Bay Area!</p>"
       },
       {
         image: "/images/header/header2.png",
-        title: "<h2>Bollywood America</h2><br/><p>2014 Bay Area</p>"
+        title: "<h2>Bollywood America</h2><br/><p>Coming April 19, 2014 Bay Area!</p>"
       }
     ]
   };

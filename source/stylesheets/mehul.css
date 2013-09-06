@@ -1,0 +1,9 @@
+#hype {
+  padding: 20px;
+  text-align: center;
+}
+
+#hype iframe {
+  height: 400px;
+  max-width: 80%;
+}

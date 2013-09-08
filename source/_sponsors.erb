@@ -1,0 +1,8 @@
+<section class="gallery page-sections-13 alternate-bg2" id="sponsors">
+  <div class="container">
+    <div class="titleBar"><h2>Sponsors</h2></div>
+      <% data.sponsors.each do |sponsor| %>
+        <%= partial(:sponsor, locals: { sponsor: sponsor } ) %>
+      <% end %>
+  </div>
+</section>

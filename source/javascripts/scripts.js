@@ -10,8 +10,8 @@ jQuery(document).ready(function($){
         title: "<h2>Bollywood America</h2><br/><p>Coming April 19, 2014 Bay Area!</p>"
       },
       {
-        image: "/images/header/header2.png",
-        title: "<h2>Bollywood America</h2><br/><p>Coming April 19, 2014 Bay Area!</p>"
+        image: "/images/header/logo.png",
+        title: ""
       }
     ]
   };

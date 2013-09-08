@@ -1,9 +1,9 @@
-#hype {
+#about {
   padding: 20px;
-  text-align: center;
 }
 
-#hype iframe {
+#about iframe {
   height: 400px;
   max-width: 80%;
+  margin-bottom: 20px;
 }

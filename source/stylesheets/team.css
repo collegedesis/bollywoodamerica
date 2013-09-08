@@ -1,7 +1,7 @@
 .info {
   text-align: center;
   position: relative;
-  height: 150px;
+  height: 250px;
   width: 300px;
   margin: 0 auto 20px;
   text-align: center;
@@ -19,8 +19,8 @@
 
 .container .info img {
   border-radius: 50%;
-  width: 125px;
-  height: 125px;
+  width: 175px;
+  height: 175px;
   margin: 0 auto 5px;
   box-shadow: 0 0 3px #ccc;
 }

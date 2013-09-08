@@ -63,37 +63,32 @@ title: Bollywood America | 2014 | Bay Area, California
 
 <%= partial :about %>
 
-<section class="parallax parallax-sections-121" id="parallax-sections-121">
-  <div class="container message">
-    <h4><span style="color: #ffffff;">To dance is to be out of yourself. Larger, more beautiful, more powerful.. This is power, it is glory on earth and it is yours for the taking</span></h4>
-  </div>
-</section>
+<%= partial(:parallax, locals: {
+  quote: "To dance is to be out of yourself. Larger, more beautiful, more powerful.. This is power, it is glory on earth and it is yours for the taking",
+  num: "121"
+}) %>
 
 <%= partial :bids %>
 
-<section class="parallax parallax-sections-121" id="parallax-sections-121">
-  <div class="container message">
-    <h4><span style="color: #ffffff;">To dance is to be out of yourself. Larger, more beautiful, more powerful.. This is power, it is glory on earth and it is yours for the taking</span></h4>
-  </div>
-</section>
+<%= partial(:parallax, locals: {
+  quote: "To dance is to be out of yourself. Larger, more beautiful, more powerful.. This is power, it is glory on earth and it is yours for the taking",
+  num: "121"
+}) %>
 
 <%= partial :management %>
 
-
-<section class="parallax parallax-sections-114" id="parallax-sections-114">
-  <div class="container message">
-    <h4><span style="color: #ffffff;">To touch, to move, to inspire. This is the true gift of dance.</span></h4>
-  </div>
-</section>
+<%= partial(:parallax, locals: {
+  quote: "To touch, to move, to inspire. This is the true gift of dance.",
+  num: "114"
+}) %>
 
 <%= partial :registration %>
 
+<%= partial(:parallax, locals: {
+  quote: "When I dance, I want people to question the reality of what they’re seeing",
+  num: "116"
+}) %>
 
-<section class="parallax parallax-sections-116" id="parallax-sections-116">
-  <div class="container message">
-    <h4><span style="color: #ffffff;">When I dance, I want people to question the reality of what they’re seeing</span></h4>
-  </div>
-</section>
 
 <%= partial :sponsors %>
 

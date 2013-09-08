@@ -29,11 +29,6 @@
   website: http://ucberkeleyindus.com/wordpress/
   image: images/bids/bollywood_berkeley.png
 - bid:
-  name: Jhoomti Shaam
-  location: Los Angeles, California
-  website: http://www.jhoomtishaam.com/
-  image: images/bids/jhoomti_shaam.jpg
-- bid:
   name: Midwest Dhamaka
   location: Cincinnati, Ohio
   website: http://midwestdhamaka.com/
@@ -53,3 +48,8 @@
   location: Chicago, Illinois
   website: http://www.tufaanentertainment.com/
   image: images/bids/tufaan.jpg
+- bid:
+  name: Jhoomti Shaam
+  location: Los Angeles, California
+  website: http://www.jhoomtishaam.com/
+  image: images/bids/jhoomti_shaam.jpg

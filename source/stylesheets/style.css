@@ -1,9 +1,7 @@
 
 /* PARALLAX CSS
 ============================== */
-#parallax-sections-17{
-  background:url("http://themes.webcreations907.com/ninezeroseven/option-one/wp-content/uploads/2013/02/new-taxi.jpg") repeat 50% -3px fixed transparent;
-}
+
 #parallax-sections-114{
   background:url("/images/parallax/p2.jpg") repeat 50% -3px fixed transparent;
 }
@@ -13,10 +11,6 @@
 #parallax-sections-121{
   background:url("/images/parallax/p4.jpg") repeat 50% -3px fixed transparent;
 }
-#parallax-sections-135{
-  background:url("http://themes.webcreations907.com/ninezeroseven/option-two/wp-content/uploads/2013/02/default-parallax.jpg") repeat 50% -3px fixed transparent;
-}
-
 
 .topBar{
   background-color:#262626;

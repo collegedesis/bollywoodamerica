@@ -1,3 +1,9 @@
+# Quotations for divider sections.
+# Only the first 4 quotations will be used
+# To add a new quotation, simply add to the list and rearrange.
+# The number is associated with an image. Valid numbers are:
+# 114, 116, and 121.
+
 - quotation:
   text: "To touch, to move, to inspire. This is the true gift of dance. - Aubrey Lynch"
   num: 114

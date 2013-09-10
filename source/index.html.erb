@@ -63,19 +63,19 @@ title: Bollywood America | 2014 | Bay Area, California
 
 <%= partial :about %>
 
-<%= partial(:parallax, locals: { quote: data.quotations.sample }) %>
+<%= partial(:parallax, locals: { quote: data.quotations[0] }) %>
 
 <%= partial :bids %>
 
-<%= partial(:parallax, locals: { quote: data.quotations.sample }) %>
+<%= partial(:parallax, locals: { quote: data.quotations[1] }) %>
 
 <%= partial :registration %>
 
-<%= partial(:parallax, locals: { quote: data.quotations.sample }) %>
+<%= partial(:parallax, locals: { quote: data.quotations[2] }) %>
 
 <%= partial :sponsors %>
 
-<%= partial(:parallax, locals: { quote: data.quotations.sample }) %>
+<%= partial(:parallax, locals: { quote: data.quotations[3] }) %>
 
 <%= partial :management %>
 

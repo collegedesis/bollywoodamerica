@@ -3,13 +3,13 @@
 ============================== */
 
 #parallax-sections-114{
-  background:url("/images/parallax/p2.jpg") repeat 50% -3px fixed transparent;
+  background:url("../images/parallax/p2.jpg") repeat 50% -3px fixed transparent;
 }
 #parallax-sections-116{
-  background:url("/images/parallax/p3.jpg") repeat 50% -3px fixed transparent;
+  background:url("../images/parallax/p3.jpg") repeat 50% -3px fixed transparent;
 }
 #parallax-sections-121{
-  background:url("/images/parallax/p4.jpg") repeat 50% -3px fixed transparent;
+  background:url("../images/parallax/p4.jpg") repeat 50% -3px fixed transparent;
 }
 
 .topBar{

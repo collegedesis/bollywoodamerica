@@ -3,53 +3,64 @@
   location: Toronto, Ontario, Canada
   website: http://www.bollywooddancecanada.com/
   image: images/bids/bollywooddancecanada.png
+  date: "March 15, 2014"
 - bid:
   name: Jhalak
   location: Austin, Texas
   website: http://www.texasjhalak.com/
   image: images/bids/jhalak.png
+  date: "November 9th, 2013"
 - bid:
   name: The Manhattan Project 5.0
   location: New York, New York
   website:
   image: images/bids/tmp.jpg
+  date: "November 23, 2013"
 - bid:
   name: A-Town Showdown
   location: Atlanta, Georgia
   website: http://www.a-townshowdown.com/
   image: images/bids/atown_showdown.png
+  date: "February 1, 2014"
 - bid:
   name: South Asian Showdown
   location: Boston, Massachusetts
   website:
   image: images/bids/sas.jpg
+  date: "February 8th, 2014"
 - bid:
   name: Bollywood Berkeley
   location: Berkeley, California
   website: http://ucberkeleyindus.com/wordpress/
   image: images/bids/bollywood_berkeley.png
+  date: "February 15th, 2014"
 - bid:
   name: Midwest Dhamaka
   location: Cincinnati, Ohio
   website: http://midwestdhamaka.com/
   image: images/bids/dhamaka.png
+  date: "March 8, 2014"
 - bid:
   name: A2 Dhoom
   location: Ann Arbor, Michigan
   website: http://michiganmazaa.com/a2dhoom/
   image: images/bids/a_dhoom.png
+  date: "March 15th, 2014"
 - bid:
   name: Infusion
   location: State College, Pennsylvania
   website: http://www.pennstateinfusion.com/
   image: images/bids/infusion.png
+  date: "March 22, 2014"
 - bid:
   name: Tufaan
   location: Chicago, Illinois
   website: http://www.tufaanentertainment.com/
   image: images/bids/tufaan.jpg
+  date: "March 22nd, 2014"
 - bid:
   name: Jhoomti Shaam
   location: Los Angeles, California
   website: http://www.jhoomtishaam.com/
   image: images/bids/jhoomti_shaam.jpg
+  date: "Undecided"

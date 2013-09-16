@@ -1,3 +1,7 @@
 /*
   *= require_tree
 */
+
+.container.message {
+  padding-top: 220px;
+}

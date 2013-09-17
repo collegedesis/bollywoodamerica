@@ -152,12 +152,6 @@
   bio: "No Bio"
   image: images/management/saumil_shah.jpg
 - officer:
-  name: Astha Kalia
-  email_address: astha.026@gmail.com
-  position: "Operations & Logisitics Team"
-  bio: "No Bio"
-  image: images/management/astha_kalia.jpg
-- officer:
   name: Priya Patel
   email_address: priyaapatell92@gmail.com
   position: "Judging Coordinator"

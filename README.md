@@ -15,3 +15,9 @@ To compile a build and deploy
 # Deploy
 
 To deploy, run `middleman deploy`. But you'll need a file called `secret.rb` in the root path of this repo that defined `ENV['DEPLOY_PASS']`. Priya and Mehul have this password. 
+
+## Alternate Deploy
+
+1. Download Filezilla (or your preferred FTP client)
+1. Connect to `bollywoodamerica.net` with username: `bollywoo` and password: (get this from Priya or Mehul)
+1. Upload build to the `public_html` folder

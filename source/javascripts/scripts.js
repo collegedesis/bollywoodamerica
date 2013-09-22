@@ -1,8 +1,8 @@
 jQuery(document).ready(function($){
   var options = {
-    slide_interval: 5500,
-    transition: 0,
-    transition_speed: 700,
+    slide_interval: 3000,
+    transition: 1,
+    transition_speed: 1000,
     vertical_center: 0,
     slides: [
       {
@@ -10,9 +10,45 @@ jQuery(document).ready(function($){
         title: "<h2>Bollywood America</h2><br/><p>Coming April 19, 2014 Bay Area!</p>"
       },
       {
-        image: "images/header/header2.png",
+        image: "images/header/other2.jpg",
         title: "<h2>Bollywood America</h2><br/><p>Coming April 19, 2014 Bay Area!</p>"
-      }
+      },
+      {
+        image: "images/header/other2.jpg",
+        title: "<h2>Bollywood America</h2><br/><p>Coming April 19, 2014 Bay Area!</p>"
+      },
+      {
+        image: "images/header/other3.jpg",
+        title: "<h2>Bollywood America</h2><br/><p>Coming April 19, 2014 Bay Area!</p>"
+      },
+      {
+        image: "images/header/other4.jpg",
+        title: "<h2>Bollywood America</h2><br/><p>Coming April 19, 2014 Bay Area!</p>"
+      },
+      {
+        image: "images/header/other5.jpg",
+        title: "<h2>Bollywood America</h2><br/><p>Coming April 19, 2014 Bay Area!</p>"
+      },
+      {
+        image: "images/header/other6.jpg",
+        title: "<h2>Bollywood America</h2><br/><p>Coming April 19, 2014 Bay Area!</p>"
+      },
+      {
+        image: "images/header/other7.jpg",
+        title: "<h2>Bollywood America</h2><br/><p>Coming April 19, 2014 Bay Area!</p>"
+      },
+      {
+        image: "images/header/other9.jpg",
+        title: "<h2>Bollywood America</h2><br/><p>Coming April 19, 2014 Bay Area!</p>"
+      },
+      {
+        image: "images/header/other10.jpg",
+        title: "<h2>Bollywood America</h2><br/><p>Coming April 19, 2014 Bay Area!</p>"
+      },
+      {
+        image: "images/header/other11.jpg",
+        title: "<h2>Bollywood America</h2><br/><p>Coming April 19, 2014 Bay Area!</p>"
+      },
     ]
   };
 

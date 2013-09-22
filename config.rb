@@ -27,5 +27,5 @@ activate :deploy do |deploy|
   deploy.path         = "/public_html/"
   deploy.user         = "bollywoo"
   deploy.password     = ENV['DEPLOY_PASS']
-  # deploy.build_before = true
+  deploy.build_before = true
 end

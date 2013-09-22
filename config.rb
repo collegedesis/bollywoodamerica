@@ -14,4 +14,7 @@ configure :build do
 
   # Use relative URLs
   activate :relative_assets
+
+  # favicon
+  activate :favicon_maker
 end

@@ -1,3 +1,4 @@
+require './secret.rb' if File.exist?('secret.rb')
 set :css_dir, 'stylesheets'
 
 set :js_dir, 'javascripts'
@@ -17,4 +18,14 @@ configure :build do
 
   # favicon
   activate :favicon_maker
+
+end
+
+activate :deploy do |deploy|
+  deploy.method       = :ftp
+  deploy.host         = "bollywoodamerica.net"
+  deploy.path         = "/public_html/"
+  deploy.user         = "bollywoo"
+  deploy.password     = ENV['DEPLOY_PASS']
+  # deploy.build_before = true
 end

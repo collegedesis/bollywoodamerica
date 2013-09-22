@@ -14,8 +14,4 @@ To compile a build and deploy
 
 # Deploy
 
-To deploy, get a FTP client like Filezilla and connect to `bollywoodamerica.net` with the user name and password and deploy to `public_html`/. Priya and Mehul have the log in credentials.
-
-# TODO
-
-Make `middleman-deploy` work. It should be pretty easy, but isn't working.
+To deploy, run `middleman deploy`. But you'll need a file called `secret.rb` in the root path of this repo that defined `ENV['DEPLOY_PASS']`. Priya and Mehul have this password. 

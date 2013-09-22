@@ -46,12 +46,6 @@ jQuery(document).ready(function($){
         controlNav: false,
         slideshowSpeed: 3500
       });
-
-      $('.image-wrapper').hover(function(){
-        $(this).find('.mouse-effect').stop().animate({'opacity':'0.6'});
-         },function(){
-         $(this).find('.mouse-effect').stop().animate({'opacity':'0'});
-      });
     });
   });
 

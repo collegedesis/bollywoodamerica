@@ -11,3 +11,8 @@
   height: 31px;
   width: 245px;
 }
+
+.image-wrapper,
+.image-wrapper a {
+  height: 100%;
+}

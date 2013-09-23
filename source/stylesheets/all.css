@@ -2,10 +2,6 @@
   *= require_tree
 */
 
-.container.message {
-  padding-top: 220px;
-}
-
 .topBar h1.hide-text {
   background: url('../images/logo2.png') no-repeat;
   height: 31px;
